@@ -1,0 +1,9 @@
+Steps file:
+The first integer is the level, 
+The letters (a, A, d, D, w, W, x, X, s, S) are the moves of the game objects.
+The sign '?' symboling the appearance of the fruit, and then the exact place of the fruit on the board,
+and after that, the value that appears on the screen.
+The sign '!' symboling the disapperance of the fruit.
+
+Result file:
+The last line is the remaining lives of this screen.
